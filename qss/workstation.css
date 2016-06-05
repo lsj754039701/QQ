@@ -1,0 +1,148 @@
+QLabel#headLabel
+{
+    margin:2px;
+}
+
+QToolButton#btnClose
+{
+    width: 39px;
+    height: 20px;
+    border-image:url(:/workstation/image/systembutton/btn_close_normal.png) 0 0 0 0 stretch stretch;
+}
+
+QToolButton#btnClose:hover
+{
+    border-image:url(:/workstation/image/systembutton/btn_close_highlight.png) 0 0 0 0 stretch stretch;
+}
+
+QToolButton#btnClose:pressed
+{
+    border-image:url(:/workstation/image/systembutton/btn_close_down.png) 0 0 0 0 stretch stretch;
+}
+
+QToolButton#btnMax
+{
+    width: 28px;
+    height: 20px;
+    border-image:url(:/workstation/image/systembutton/btn_max_normal.png) 0 0 0 0 stretch stretch;
+}
+
+QToolButton#btnMax:hover
+{
+    border-image:url(:/workstation/image/systembutton/btn_max_highlight.png) 0 0 0 0 stretch stretch;
+}
+
+QToolButton#btnMax:pressed
+{
+    border-image:url(:/workstation/image/systembutton/btn_max_down.png) 0 0 0 0 stretch stretch;
+}
+
+QToolButton#btnMin
+{
+    width: 28px;
+    height: 20px;
+    border-image:url(:/workstation/image/systembutton/btn_mini_normal.png) 0 0 0 0 stretch stretch;
+}
+
+QToolButton#btnMin:hover
+{
+    border-image:url(:/workstation/image/systembutton/btn_mini_highlight.png) 0 0 0 0 stretch stretch;
+}
+
+QToolButton#btnMin:pressed
+{
+    border-image:url(:/workstation/image/systembutton/btn_mini_down.png) 0 0 0 0 stretch stretch;
+}
+
+
+QToolButton#btnNor
+{
+    width: 28px;
+    height: 20px;
+    border-image:url(:/workstation/image/systembutton/btn_restore_normal.png) 0 0 0 0 stretch stretch;
+}
+
+QToolButton#btnNor:hover
+{
+    border-image:url(:/workstation/image/systembutton/btn_restore_highlight.png) 0 0 0 0 stretch stretch;
+}
+
+QToolButton#btnNor:pressed
+{
+    border-image:url(:/workstation/image/systembutton/btn_restore_down.png) 0 0 0 0 stretch stretch;
+}
+
+QToolButton#btnSkin
+{
+    width: 28px;
+    height: 20px;
+    border-image:url(:/workstation/image/systembutton/btn_Skin_normal.png) 0 0 0 0 stretch stretch;
+}
+
+QToolButton#btnSkin:hover
+{
+    border-image:url(:/workstation/image/systembutton/btn_Skin_highlight.png) 0 0 0 0 stretch stretch;
+}
+
+QToolButton#btnSkin:pressed
+{
+    border-image:url(:/workstation/image/systembutton/btn_Skin_down.png) 0 0 0 0 stretch stretch;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

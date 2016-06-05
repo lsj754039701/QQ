@@ -1,0 +1,3 @@
+QPushButton#loginBtn:{border-image:url(:/login/image/button_login_normal.png) 0 0 0 0 stretch stretch; }
+QPushButton#loginBtn:hover{border-image:url(:/login/image/button_login_hover.png) 0 0 0 0 stretch stretch; }
+QPushButton#loginBtn:pressed{border-image:url(:/login/image/button_login_down.png) 0 0 0 0 stretch stretch; }

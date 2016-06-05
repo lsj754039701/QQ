@@ -1,0 +1,4 @@
+QLineEdit{ background:rgba(0,0,0,0%); border:1px; height:20px; }
+QLineEdit:hover{ border-image:url(/home/time/inputbox.png); }
+QLineEdit:!hover{background:rgba(0,0,0,0%);}
+QLineEdit:focus {background:white;border-image:none; border:1px groove lightgray; border-radius:2px}

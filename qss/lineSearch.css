@@ -1,0 +1,16 @@
+QLineEdit
+{
+    height:30px;
+    border-image:url(/home/time/inputbox.png);
+    border:1px;
+    margin-top:2px;
+}
+QLineEdit:focus
+{
+    background:white;
+    border:1px groove lightgray ;
+    border-image:none;
+    margin:3px;
+    padding:0;
+    border-radius:4px
+}
